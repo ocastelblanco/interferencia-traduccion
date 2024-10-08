@@ -1,1 +1,1 @@
-**Scripts de traducción de Interferencias
+# Scripts de traducción de Interferencias
